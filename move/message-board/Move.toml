@@ -1,0 +1,17 @@
+[package]
+name = "message-board"
+version = "1.0.0"
+authors = []
+
+[addresses]
+# std = "0x1"
+# initia_std = "0x1"
+message_board_addr = "_"
+
+[dev-addresses]
+message_board_addr = "0x99999"
+
+[dependencies]
+InitiaStdlib = { git = "https://github.com/initia-labs/move-natives.git", subdir = "initia_stdlib", rev = "v1.0.0-rc.1" }
+
+[dev-dependencies]
