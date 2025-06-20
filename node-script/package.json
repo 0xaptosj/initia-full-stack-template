@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@initia/builder.js": "^0.2.12",
-    "@initia/initia.js": "^0.2.32",
+    "@initia/initia.js": "^1.0.9",
     "dotenv": "^16.3.1",
     "pg": "^8.12.0"
   },
