@@ -1,3 +1,7 @@
 .idea
 .DS_Store
 *.pem
+.next
+node_modules
+public
+*.env
